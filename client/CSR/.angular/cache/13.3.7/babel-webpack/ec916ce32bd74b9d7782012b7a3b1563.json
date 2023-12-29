@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Tarea {\n  constructor(_id, titulo, descripcion, problema, iduser, idcliente) {\n    this._id = _id;\n    this.titulo = titulo;\n    this.descripcion = descripcion;\n    this.problema = problema;\n    this.iduser = iduser;\n    this.idcliente = idcliente;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

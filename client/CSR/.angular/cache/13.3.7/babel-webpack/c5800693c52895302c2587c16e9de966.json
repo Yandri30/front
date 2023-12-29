@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  url: 'https://vinculacioninventariofacci-82cab3eb5924.herokuapp.com/api/' //URL DEL BACKEND\n\n};","map":null,"metadata":{},"sourceType":"module"}

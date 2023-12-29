@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Cliente {\n  constructor(id, nombres, cedula, correo, telefono, direccion) {\n    this.id = id;\n    this.nombres = nombres;\n    this.cedula = cedula;\n    this.correo = correo;\n    this.telefono = telefono;\n    this.direccion = direccion;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
